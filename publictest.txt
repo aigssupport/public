@@ -1,2 +1,6 @@
 testing123
+<<<<<<< HEAD
 fixed issue #2 
+=======
+fixed issue #2 second time
+>>>>>>> 2-second-issue
