@@ -1,8 +1,4 @@
 testing123
-<<<<<<< Updated upstream
-fixed issue #2 second time
-=======
-fixed issue #2 
 fixed issue #2 second time
 fixed issue #2 third time
->>>>>>> Stashed changes
+fixed issue #2 fourth time
